@@ -286,8 +286,4 @@ Manual setup instead of Blueprint: Web Service, root directory = repo root, buil
 
 ---
 
-## 👤 Author
-
-**Rajjooo**
-
 > Built with ❤️ and a lot of teal 🟢
